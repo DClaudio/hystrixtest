@@ -1,0 +1,15 @@
+target/
+.idea/libraries
+.idea/copyright
+.idea/shelf/
+.idea/*.*
+*.pyc
+*.iml
+*.aux
+*.log
+*.pdf
+*.toc
+*.out
+.cache/
+build
+
